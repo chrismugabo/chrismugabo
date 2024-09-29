@@ -1,6 +1,7 @@
 ## Hi there 👋
 
- Welcome to my GitHub profile! I'm a Business Systems Development student with a passion for software engineering and technology-driven solutions. I love building innovative projects and solving real-world problems through coding, mobile development, and web technologies.
+ Welcome to my GitHub profile! I'm a Business Systems Development student with a passion for software engineering and technology-driven solutions.
+ I love building innovative projects and solving real-world problems through coding, mobile development, and web technologies.
 
 🔭 Currently working on:
 A personal portfolio website showcasing my projects and experience.
