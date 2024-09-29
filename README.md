@@ -25,7 +25,7 @@ I love building innovative projects and solving real-world problems through codi
 
 📫 **How to reach me:**
 - **Email**: cmugabo5@gmail.com
-- **LinkedIn**: [linkedin.com/in/chrismugabo](https://linkedin.com/in/chrismugabo)
+- **LinkedIn**: [linkedin.com/in/chrismugabo](https://www.linkedin.com/in/mugabo-chris-b44540242/)
 
 🌍 **Languages:**
 - Fluent in English and French.
