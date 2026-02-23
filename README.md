@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm **Chris Mugabo**, a Business Systems Developme
 ---
 
 ### 🔭 Currently working on:
-- **Personal Portfolio Website**: Showcasing my projects and experience in web development.
-- **Final Research Project**: Analyzing IMDb and Netflix datasets using Python for comparison and regression analysis.
+- **Stoqly**: Supplier ordering and price tracker for Kigali restaurants and bars 🇷🇼
 
 ### 🌱 Learning and exploring:
 - Advanced **Android development**, creating intuitive, responsive mobile apps.
