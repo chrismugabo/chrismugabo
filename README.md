@@ -73,8 +73,5 @@ Thanks for stopping by! Don't hesitate to connect or collaborate on any project 
 🌍 **Languages:**
 - Fluent in English and French.
 
-⚡ **Fun fact:**
-- I once built a full-fledged coffee machine simulator—and yes, it taught me a lot about programming... and coffee!
 
-Thanks for stopping by! Don't hesitate to connect or collaborate on any project 😊
 
